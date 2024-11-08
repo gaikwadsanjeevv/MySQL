@@ -1,0 +1,4 @@
+Good practice : 
+
+CREATE DATABASE IF NOT EXISTS college;
+DROP DATABASE IF EXISTS db_Name;
